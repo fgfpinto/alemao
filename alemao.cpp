@@ -7,7 +7,7 @@
 #include <map>
 
 using namespace std;
-
+/*
 typedef struct dicionario {
 	string chave;
 	string artigo_alemao;
@@ -35,10 +35,8 @@ int main() {
 	return 0;
 }
 
+*/
 
-
-/*
-BACKUP
 #include <fstream>
 #include <iostream>
 #include <stdio.h>
@@ -123,4 +121,3 @@ int main() {
 
 	return 0;
 }
-*/
